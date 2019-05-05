@@ -1,0 +1,33 @@
+---
+title: "About this App"
+author: "Evan Canfield"
+date: "May 4, 2019"
+output: html_document
+---
+
+
+This Shiny application visualizes electricity generation in the Southeast United States between the 2001 and 2017. The application uses data provide the United States Energy Information Administration (EIA). Generator output and energy source data was provided by the yearly EIA-923 reports. Power plant name and location data was provided by the December 2018 EIA-860M report.
+
+**HOW TO USE THIS APP**
+
+The user can interact with this app three ways: selecting a **state**, selecting a **year**, and zooming/panning within the map.
+
+To filter by **state**, select the desired state from the drop-down menu in the top right corner.
+
+To filter by **year**, use the slider on the top of the page to select the desired year, or click the play button to animate across all years. 
+
+To zoom and pan within the map, use the scroll wheel and left button on the mouse when hovering over the map.
+
+The **state** and **year** filters will apply to every object within the Shiny app. The bar and line charts will show data corresponding to the selected state and year. The map will only display data points within the selected state and year, and will zoom and center the map on the selected state upon initial selection of the state.
+
+Zooming and panning will not affect any of the charts within the app.
+
+**NOTES**
+
+1. Renewable energy sources are considered Wind, Solar, Hydroelectric, and Biomass for this app.
+
+2. Other energy sources include geothermal, energy storage, purchased steam, tire-derived fuels, and certain forms of waste heat.
+
+**ACKNOWLEDGEMENT**
+
+This app was inspired by the Washington Post article [Mapping how the United States generates its electricity](https://www.washingtonpost.com/graphics/national/power-plants). The most recent update of this article as of the publishing of this app was on March 28, 2017.

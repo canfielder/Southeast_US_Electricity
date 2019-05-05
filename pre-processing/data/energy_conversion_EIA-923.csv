@@ -1,0 +1,41 @@
+EIA-923_reported_fuel type_code,project_energy_type,project_energy_code,renewable
+AB,Biomass,BIO,Y
+ANT,Coal,COL,N
+BFG,Natural Gas,NG,N
+BIT,Coal,COL,N
+BLQ,Biomass,BIO,Y
+DFO,Oil,OIL,N
+GEO,Other,OTH,N
+JF,Oil,OIL,N
+KER,Oil,OIL,N
+LFG,Biomass,BIO,Y
+LIG,Coal,COL,N
+MSB,Biomass,BIO,Y
+MSN,Biomass,BIO,Y
+MWH,Other,OTH,N
+NG,Natural Gas,NG,N
+NUC,Nuclear,NUC,N
+OBG,Biomass,BIO,Y
+OBL,Biomass,BIO,Y
+OBS,Biomass,BIO,Y
+OG,Natural Gas,NG,N
+OTH,Other,OTH,N
+PC,Oil,OIL,N
+PG,Oil,OIL,N
+PUR,Other,OTH,N
+RC,Coal,COL,N
+RFO,Oil,OIL,N
+SC,Coal,COL,N
+SGC,Coal,COL,N
+SGP,Coal,COL,N
+SLW,Biomass,BIO,Y
+SUB,Coal,COL,N
+SUN,Solar,SOL,Y
+TDF,Other,OTH,N
+WAT,Hydroelectric,HYD,Y
+WC,Coal,COL,N
+WDL,Biomass,BIO,Y
+WDS,Biomass,BIO,Y
+WH,Other,OTH,N
+WND,Wind,WND,Y
+WO,Oil,OIL,N

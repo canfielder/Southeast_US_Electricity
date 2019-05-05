@@ -1,0 +1,13 @@
+Variable,Description
+Plant.ID_Energy,Unique identifier created by combining the Plant ID provided by EIA-923 and the project_energy_code
+Plant.Name,Provided by EIA-860M
+project_energy_code,Two or three letter code representing the project_energy_type
+project_energy_type,"Energy source as defined by this project. EIA-923 uses 40 different reported fuel type codes. These codes are consolidated into 9 energy types: Biomass, Coal, Hydroelectric, Natural Gas, Nuclear, Oil, Other, Solar, and Wind. A conversion table listing the EIA-923 reported fuel type code and the project defined energy code and energy type, also with a renewable status, is found in Appendix, Section 2."
+renewable,"Binary condition. An observation is renewable if the fuel type is Solar, Wind, or Biomass. "
+net_gen_mw,"Net generated electricity, in megawatts (MW) provided by EIA-923"
+emission_output,"Greenhouse emission output for each observation, in gCO2eq. Emissions were calculated by applying a emission per MW factor against the yearly net generation. Emission factors were supplied by IPCCC AR5 (Reference 7.3) and WNA Report (Reference 7.4)"
+Effective_Rate,"The observed average generation rate for the year, MW. See in Appendix, Section 2."
+State_SF,"State power plant is located in. Due to missing values in EIA-923 and EIA-860M, this variable was calculated via lookup using the latitude and longitude data. See in Appendix, Section 2"
+Latitude,Plant latitude coordinate. Provided by EIA-923
+Longitude,Plant longitude coordinate. Provided by EIA-923
+Year,Year corresponding to net electricity generation. Provided by EIA-923.

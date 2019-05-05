@@ -1,0 +1,10 @@
+project_energy_type,project_energy_code,color_code,color_name
+Biomass,BIO,#4A235A,purple
+Coal,COL,#99979A,grey
+Hydroelectric,HYD,#0081C5,blue
+Natural Gas,NG,#F78B29,Orange
+Nuclear,NUC,#CF4A9B,pink
+Oil,OIL,#EE1C25,red
+Other,OTH,#FFA07A,salmon
+Solar,SOL,#D7C944,yellow
+Wind,WND,#0FB14C,green

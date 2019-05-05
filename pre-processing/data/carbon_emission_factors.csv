@@ -1,0 +1,11 @@
+project_energy_code,emission_factor,source
+BIO,485,IPCC
+COL,820,IPCC
+NG,490,IPCC
+OIL,733,WNA
+GEO,38,IPCC
+OTH,632,Average
+NUC,12,IPCC
+SOL,44.5,IPCC
+HYD,24,IPCC
+WND,11.5,IPCC

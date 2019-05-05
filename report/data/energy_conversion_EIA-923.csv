@@ -1,0 +1,41 @@
+EIA-923_reported_fuel_type,EIA-923_reported_fuel_code,project_energy_type,project_energy_code,renewable
+Agricultural By-Products,AB,Biomass,BIO,Y
+Anthracite Coal,ANT,Coal,COL,N
+Blast Furnace Gas,BFG,Natural Gas,NG,N
+Bituminous Coal,BIT,Coal,COL,N
+Black Liquor,BLQ,Biomass,BIO,Y
+Distillate Fuel Oil,DFO,Oil,OIL,N
+Geothermal,GEO,Other,OTH,N
+Jet Fuel,JF,Oil,OIL,N
+Kerosene,KER,Oil,OIL,N
+Landfill Gas,LFG,Biomass,BIO,Y
+Lignite Coal,LIG,Coal,COL,N
+Biogenic Municipal Solid Waste,MSB,Biomass,BIO,Y
+Non-biogenic Municipal Solid Waste,MSN,Biomass,BIO,Y
+Electricity used for energy storage,MWH,Other,OTH,N
+Natural Gas,NG,Natural Gas,NG,N
+Nuclear,NUC,Nuclear,NUC,N
+Other Biomass Gas,OBG,Biomass,BIO,Y
+Other Biomass Liquids,OBL,Biomass,BIO,Y
+Other Biomass Solids,OBS,Biomass,BIO,Y
+Other Gas,OG,Natural Gas,NG,N
+Other Fuel,OTH,Other,OTH,N
+Petroleum Coke,PC,Oil,OIL,N
+Gaseous Propane,PG,Oil,OIL,N
+Purchased Steam,PUR,Other,OTH,N
+Refined Coal,RC,Coal,COL,N
+Residual Fuel Oil. ,RFO,Oil,OIL,N
+Coal-based Synfuel.,SC,Coal,COL,N
+Coal-Derived Synthesis Gas,SGC,Coal,COL,N
+Synthesis Gas from Petroleum Coke,SGP,Coal,COL,N
+Sludge Waste,SLW,Biomass,BIO,Y
+Subbituminous Coal,SUB,Coal,COL,N
+Solar,SUN,Solar,SOL,Y
+Tire-derived Fuels,TDF,Other,OTH,N
+Hydroelectric Turbine,WAT,Hydroelectric,HYD,Y
+Waste/Other Coal,WC,Coal,COL,N
+Wood Waste Liquids,WDL,Biomass,BIO,Y
+Wood/Wood Waste Solids,WDS,Biomass,BIO,Y
+Waste Heat not directly attributed,WH,Other,OTH,N
+Wind,WND,Wind,WND,Y
+Waste/Other Oil,WO,Oil,OIL,N
