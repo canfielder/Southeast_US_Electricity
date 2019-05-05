@@ -2,8 +2,6 @@
 
 ![](screenshots_for_readme/2019-05-05_17_24_19-Splash_Page.png)
 
-https://evan-canfield.shinyapps.io/Southeast_US_Electricity/
-
 ##About the App
 This Shiny app was created as a Final Project for DSBA 5122: Visual Analytics at University of North Carolina Charlotte. It was inspired by the visualizations in the Washington Post article [Mapping how the United States generates its electricity](https://www.washingtonpost.com/graphics/national/power-plants).
 
