@@ -64,4 +64,4 @@ Highcharter allows for filtering directly on the chart. Selecting one of the leg
 
 For example of the filter see the chart below. This chart is based on the *state* and *year* inputs selected for the By Energy Source tab picture above. Only this time Coal, Natural Gas, and Nuclear have been filtered from the chart. The remaining energy sources, previously relegated to look more-or-less like a line on the bottom of the chart, now fill the screen and change in the electricity generation from these energy sources can be observed.
 
-![](screenshots_for_readme/2019-05-05_17_03_27-By_Energy_Source_filter.png) ![](screenshots_for_readme/2019-05-05_17_02_53-Total.png)
+![](screenshots_for_readme/2019-05-05_17_03_27-By_Energy_Source_filter.png)
