@@ -62,6 +62,7 @@ Greenhouse gas emissions are estimataed based on the 2014 International Panel of
 
 Highcharter allows for filtering directly on the chart. Selecting one of the legend item will remove that legend item from the chart. The chart axis will then re-adjust to fill the a page. Selecting the legend item again re-instates the item. This filter DOES NOT affect the map. Ideally, a future iteration of this app would filter by energy types consistentnly across the map and charts. 
 
-For example of the filter see the chart below. This chart is based on the *state* and *year* inputs selected for the By Energy Source tab picture above. Only this time Coal, Natural Gas, and Nuclear have been filtered from the chart. The remaining energy sources, previously relegated to look more-or-less like a line on the bottom of the chart, now fill the screen and change in the electricity generation from these energy sources can be observed.
+For example, see the two charts below. Both charts is based on the same *state* and *year* inputs selected, North Carolina, 2017 (as was the By Energy Source tab picture above). Only in the image on the right Coal, Natural Gas, and Nuclear have been filtered from the chart. The remaining energy sources, previously relegated to look more-or-less like a line running along the bottom of the chart, now fill the screen. Actual change and trends in electricity generation from these energy sources can be observed.
 
-![](screenshots_for_readme/2019-05-05_17_03_27-By_Energy_Source_filter.png)
+<img src="screenshots_for_readme/2019-05-05_17_03_27-By_Energy_Source_all.png" width = "450"><img src="screenshots_for_readme/2019-05-05_17_03_27-By_Energy_Source_filter.png" width = "450"> 
+
