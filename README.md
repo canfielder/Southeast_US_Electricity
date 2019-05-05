@@ -58,7 +58,7 @@ Greenhouse gas emissions are estimataed based on the 2014 International Panel of
 
 ![](screenshots_for_readme/2019-05-05_17_05_36-Emissions.png)
 
-**A note on filtering the charts**
+#### A note on filtering the charts
 
 Highcharter allows for filtering directly on the chart. Selecting one of the legend item will remove that legend item from the chart. The chart axis will then re-adjust to fill the a page. Selecting the legend item again re-instates the item. This filter DOES NOT affect the map. Ideally, a future iteration of this app would filter by energy types consistentnly across the map and charts. 
 
