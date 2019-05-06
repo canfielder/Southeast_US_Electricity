@@ -4,7 +4,9 @@
 
 https://evan-canfield.shinyapps.io/Southeast_US_Electricity/
 
+
 A report on this app was published on RPubs here:
+
 https://rpubs.com/canfielder/Southeast_Electricity_Generation
 
 ## About the App
