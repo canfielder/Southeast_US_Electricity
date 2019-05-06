@@ -319,6 +319,7 @@ ui <- fluidPage( theme = shinytheme("spacelab"),
                           value = 2017,
                           width = "100%", 
                           sep = "", 
+                          ticks = FALSE,
                           animate = animationOptions(interval = 750, loop = FALSE)
               ),
         fluidRow(column(width = 8,
