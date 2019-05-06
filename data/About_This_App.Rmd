@@ -3,10 +3,19 @@ title: "About this App"
 author: "Evan Canfield"
 date: "May 4, 2019"
 output: html_document
+fontsize: 8pt
 ---
 
+<style type="text/css">
 
-This Shiny application visualizes electricity generation in the Southeast United States between the 2001 and 2017. The application uses data provide the United States Energy Information Administration (EIA). Generator output and energy source data was provided by the yearly EIA-923 reports. Power plant name and location data was provided by the December 2018 EIA-860M report.
+body{ /* Normal  */
+      font-size: 11.5px;
+  }
+  </style>
+
+This Shiny application visualizes electricity generation in the Southeast United States between the 2001 and 2017.  Several charts provide relevant information, and a map shows every power generating location in the region, greater than 1MW, represented by a point at the plant's exact location. The size of each point on the map is in proportion to the Effective Rate of the plant, that is, the hourly output, in MW, calculated from reported yearly total generation. Each point is color coded based on the energy type used to generate the electricity.
+
+The application uses data provide the United States Energy Information Administration (EIA). Generator output and energy source data was provided by the yearly EIA-923 reports. Power plant name and location data was provided by the December 2018 EIA-860M report. 
 
 **HOW TO USE THIS APP**
 
