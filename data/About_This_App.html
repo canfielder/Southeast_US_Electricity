@@ -191,18 +191,24 @@ $(document).ready(function () {
 </div>
 
 
-<p>This Shiny application visualizes the of electricity in the Southeast United States between the years 2001 and 2017. The application uses data provide the United States Energy Information Administration. Generator output and energy source was provided by the yearly EIA-923 reports, or equivalents. Power plant name and location data was provided by the December 2018 EIA-860M report.</p>
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 10px;
+  }
+  </style>
+<p>This Shiny application visualizes electricity generation in the Southeast United States between the 2001 and 2017 with several charts and a represented by a point on a map. The application uses data provide the United States Energy Information Administration (EIA). Generator output and energy source data was provided by the yearly EIA-923 reports. Power plant name and location data was provided by the December 2018 EIA-860M report. The size of each point on the map is in proportion to the Effective Rate of the plant. That is, the hourly output, in MW, based on yearly total output.</p>
 <p><strong>HOW TO USE THIS APP</strong></p>
-<p>The user can interact with this app three ways: selecting a <strong>state</strong>, selecting a <strong>year</strong>, and zooming and panning within the map.</p>
+<p>The user can interact with this app three ways: selecting a <strong>state</strong>, selecting a <strong>year</strong>, and zooming/panning within the map.</p>
 <p>To filter by <strong>state</strong>, select the desired state from the drop-down menu in the top right corner.</p>
 <p>To filter by <strong>year</strong>, use the slider on the top of the page to select the desired year, or click the play button to animate across all years.</p>
-<p>Zooming and panning can be accomplished using the scroll wheel and right clicking when the mouse is over the map plot.</p>
+<p>To zoom and pan within the map, use the scroll wheel and left button on the mouse when hovering over the map.</p>
 <p>The <strong>state</strong> and <strong>year</strong> filters will apply to every object within the Shiny app. The bar and line charts will show data corresponding to the selected state and year. The map will only display data points within the selected state and year, and will zoom and center the map on the selected state upon initial selection of the state.</p>
-<p>Zooming and panning will not affect any of the charts within the app. It will only change the map view.</p>
+<p>Zooming and panning will not affect any of the charts within the app.</p>
 <p><strong>NOTES</strong></p>
 <ol style="list-style-type: decimal">
-<li><p>Renewable energy sources are considered Wind, Solar, and Biomass.</p></li>
-<li><p>Other energy sources include geothermal, energy storage, purchased steam, tire-derived fuels, and waste heat not directly attributed to a fuel source.</p></li>
+<li><p>Renewable energy sources are considered Wind, Solar, Hydroelectric, and Biomass for this app.</p></li>
+<li><p>Other energy sources include geothermal, energy storage, purchased steam, tire-derived fuels, and certain forms of waste heat.</p></li>
 </ol>
 <p><strong>ACKNOWLEDGEMENT</strong></p>
 <p>This app was inspired by the Washington Post article <a href="https://www.washingtonpost.com/graphics/national/power-plants">Mapping how the United States generates its electricity</a>. The most recent update of this article as of the publishing of this app was on March 28, 2017.</p>
