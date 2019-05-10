@@ -13,7 +13,7 @@ https://rpubs.com/canfielder/Southeast_Electricity_Generation
 
 ## About the App
 
-This Shiny app was created as a Final Project for DSBA 5122: Visual Analytics at University of North Carolina Charlotte. It was inspired by the visualizations in the Washington Post article [Mapping how the United States generates its electricity](https://www.washingtonpost.com/graphics/national/power-plants).
+This Shiny app was created as a Final Project for DSBA 5122: Visual Analytics at University of North Carolina Charlotte. It was inspired by the visualizations in the Washington Post article [Mapping how the United States generates its electricity](https://www.washingtonpost.com/graphics/national/power-plants/).
 
 This app visualizes electricity generation in the Southeast United States between 2001 and 2017. The application uses data provide the United States Energy Information Administration (EIA). Generator output and energy source data was provided by the yearly EIA-923 reports. Power plant name and location data was provided by the December 2018 EIA-860M report.
 
