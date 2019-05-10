@@ -39,4 +39,4 @@ Zooming and panning will not affect any of the charts within the app.
 
 **ACKNOWLEDGEMENT**
 
-This app was inspired by the Washington Post article [Mapping how the United States generates its electricity](https://www.washingtonpost.com/graphics/national/power-plants). The most recent update of this article as of the publishing of this app was on March 28, 2017.
+This app was inspired by the Washington Post article [Mapping how the United States generates its electricity](https://www.washingtonpost.com/graphics/national/power-plants/). The most recent update of this article as of the publishing of this app was on March 28, 2017.
