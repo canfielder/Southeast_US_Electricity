@@ -1,6 +1,6 @@
 ---
 title: "DSBA 5122: Visual Analytics - Final Project"
-subtitle: "Shiny App: Electricity Generation in the Southeast United States: 2001 - 2017 <br> [Link to Shiny App](https://evan-canfield.shinyapps.io/SE_US_Electricity_Generation/)"
+subtitle: "Shiny App: Electricity Generation in the Southeast United States: 2001 - 2017 <br> [Link to Shiny App](https://evan-canfield.shinyapps.io/Southeast_US_Electricity/)"
 author:
   - "DSBA 5122 Group 11" 
   - "Chandra Bhumireddy"
